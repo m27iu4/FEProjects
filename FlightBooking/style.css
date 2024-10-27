@@ -1,0 +1,35 @@
+/* style.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #F4F4F4;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #4CAF50;
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+div {
+  background-color: #FFF;
+  padding: 20px;
+  margin: auto;
+  max-width: 500px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+p {
+  font-size: 1.1em;
+  margin: 10px 0;
+}
+
+span {
+  font-weight: bold;
+  color: #4CAF50;
+}
